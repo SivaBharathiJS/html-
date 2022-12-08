@@ -1,0 +1,108 @@
+body{
+    font-size:18px;
+    background-color:white;
+        margin-left:200px;
+        margin-right:200px;
+        margin-top:50px;
+        box-sizing:border-box;
+    }
+.d1{
+        background-color:#2877ed;
+        height:140px;
+        width:100%;
+         padding:10px;
+        
+        border:4px solid red;
+        border-top:None;
+        border-right:None;
+        border-left:None;
+    }
+
+a{text-decoration:none;color:white;}
+.p1,h1{color:white;font-size:25px;}
+
+.d{		text-align:center;
+        height:40px;
+        color:black;
+        border-top:None;
+        border-right:None;
+        border-left:None;
+        padding-top:13px;
+       
+        width:100%
+}
+.d2{border:4px solid green; border-top:None;
+        border-right:None;
+        border-left:None;}
+.d3{border:4px solid #7d16fa; border-top:None;
+        border-right:None;
+        border-left:None;}
+.d4{border:4px solid #faaa16; border-top:None;
+        border-right:None;
+        border-left:None;}
+.d5{border:4px solid #16ccfa; border-top:None;
+        border-right:None;
+        border-left:None;}
+.d6{border:4px solid #e028ed; border-top:None;
+        border-right:None;
+        border-left:None;}
+.d8{color:white;height:650px;background-color:#3a3d42;font-size:19px;padding:10px;
+        font-style: inherit;
+        font-weight: lighter;
+}
+p{
+    color: #d0d5dd;
+}
+.d9{
+    margin-top: 5px;
+    background-image: url(995007.jpg);
+    overflow: hidden;
+    background-size: cover;
+    height: 300px;
+}
+.d94{
+    margin-top: 5px;
+    background-image: url(994963.jpg);
+    overflow: hidden;
+    background-size: cover;
+    height: 300px;
+}
+.d92{
+    margin-top: 5px;
+    background-image: url(1378793.webp);
+    overflow: hidden;
+    background-size: cover;
+    height: 300px;
+}
+.d93{
+    margin-top: 5px;
+    background-image: url(2928266.webp);
+    overflow: hidden;
+    background-size: cover;
+    height: 300px;
+}
+
+.pimg{
+    
+    font-size: larger;
+    text-shadow:  2px 2px 2px rgb(26, 24, 24);
+    padding: 30px;
+}
+.para{
+    margin-left: 10px;
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.d10{
+    color: azure;
+    background-color: rgb(247, 128, 82);
+    padding: 5px;
+    font-size: medium;
+}
+.d11{
+    color: azure;
+    background-color: rgb(61, 61, 61);
+    padding: 8px;
+    font-size: medium;
+    margin-top: 6px;
+}
